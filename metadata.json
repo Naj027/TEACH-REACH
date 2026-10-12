@@ -1,0 +1,6 @@
+{
+  "name": "TeachReach — Davao Central College",
+  "description": "A Secure, Data-Driven Teacher Evaluation and Professional Development Platform for Davao Central College (DCC).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
